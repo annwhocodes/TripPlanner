@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+.env
+.DS_Store
+=======
+.env
+.DS_Store
+>>>>>>> e9f17cc (Initial commit)
+__pycache__
